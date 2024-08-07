@@ -1,5 +1,8 @@
-numpy==1.24.3
-pandas==2.2.2
-streamlit==1.36.0
-scikit-learn==1.1.3
-
+streamlit
+streamlit_option_menu
+gunicorn==19.7.1
+scikit-learn==1.2.2
+numpy==1.26.4
+pandas
+plotly
+statsmodels==0.14.0
